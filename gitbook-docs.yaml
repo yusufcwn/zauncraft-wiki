@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: ZaunCraft Wiki
+  structure:
+    - type: space
+      key: docs
+      title: ZaunCraft Wiki
+      path: wiki
+      default: true
+      content:
+        directory: ./
