@@ -9,7 +9,7 @@ Herkesin kullanabildiği komutlar. `<...>` zorunlu, `[...]` isteğe bağlı değ
 | `/rtp` | Rastgele ışınlanma menüsü (3 sn bekleme, hareket/hasarla iptal olur) |
 | `/spawn`, `/lobi` | Lobiye git |
 | `/home`, `/ev`, `/evler` | Ev menüsünü aç. `/home <isim>` o eve ışınlar |
-| `/sethome <isim>`, `/evayarla` | Bulunduğun yeri ev yap (3 ev, VIP ve üstü 5) |
+| `/sethome <isim>`, `/evayarla` | Bulunduğun yeri ev yap (Oyuncu 1 ev, VIP ve üstü daha fazla) |
 | `/delhome <isim>`, `/evsil` | Ev sil |
 | `/tpa <oyuncu>`, `/tpahere <oyuncu>` | Işınlanma isteği gönder |
 | `/tpaccept`, `/tpdeny` | İsteği kabul et / reddet |
@@ -54,7 +54,9 @@ Herkesin kullanabildiği komutlar. `<...>` zorunlu, `[...]` isteğe bağlı değ
 
 | Komut | Açıklama |
 |---|---|
-| `/ec`, `/enderchest` | Ender sandığını aç (Bakiye ile genişletilebilir) |
+| `/ec`, `/enderchest` | Ender sandığını her yerden aç (**MVIP ve üstü**; sandığa sağ tıklamak herkese açık) |
+| `/workbench`, `/craft` | Taşınabilir çalışma tezgâhı (**VIP ve üstü**) |
+| `/vip` | VIP rütbelerini ve ayrıcalıklarını gör |
 | `/menu`, `/zaun` | Ana menü |
 | `/sb` | Skor tablosunu aç/kapat |
 | `/msg <oyuncu> <mesaj>`, `/r` | Özel mesaj, son yazana cevap |

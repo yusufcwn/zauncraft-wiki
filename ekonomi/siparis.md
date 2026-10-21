@@ -21,7 +21,7 @@ Hızlı yol: eşyayı elinde tut, `/siparis ver <adet> <fiyat>`.
 ## Kurallar
 
 - Fiyat **serbesttir** (serbest piyasa). Tek siparişin toplamı en fazla **100.000$** olabilir.
-- Aynı anda en fazla **5 açık sipariş** verebilirsin; sipariş **14 gün** sonra otomatik iptal olur ve paran iade edilir.
+- Aynı anda açık sipariş sayısı rütbene bağlıdır: Oyuncu 3, VIP 15, MVIP 20, ZVIP 25, ZVIP+ 30. Sipariş **14 gün** sonra otomatik iptal olur ve paran iade edilir.
 - Sadece düz eşyalar kabul edilir (adlandırılmış, büyülü, hasarlı olmayan).
 - Siparişe teslimat ve sipariş vermek için en az **60 dakika** oynamış olmalısın.
 - Aynı ağdaki (IP) hesaplar birbirinin siparişine teslimat yapamaz.

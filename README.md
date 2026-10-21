@@ -40,4 +40,4 @@ ZaunCraft, **Towny'siz saf bir SMP sunucusudur**: araziler oyuncuların güvenin
   [Oyuncu mağazaları](ekonomi/oyuncu-magazalari.md)
 - **Oyun:** [Ev ve RTP](oyun/ev-ve-rtp.md) • [Ender sandığı](oyun/ender-sandigi.md) • [Düello arenası](oyun/arena-duello.md) •
   [Kasalar](oyun/kasalar.md) • [Spawner ve özel aletler](oyun/spawner-ve-aletler.md)
-- **Topluluk:** [Rütbeler](topluluk/rutbeler.md) • [Kurallar](topluluk/kurallar.md) • [SSS](topluluk/sss.md) • [Discord](topluluk/discord.md)
+- **Topluluk:** [Rütbeler ve VIP](topluluk/rutbeler.md) • [Kurallar](topluluk/kurallar.md) • [SSS](topluluk/sss.md) • [Discord](topluluk/discord.md)

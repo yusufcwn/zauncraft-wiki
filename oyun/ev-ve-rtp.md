@@ -11,7 +11,7 @@
 | `/sethome <isim>` | Bulunduğun yeri ev yap |
 | `/delhome <isim>` | Evi sil |
 
-- **Ev hakkı:** 3 ev (VIP ve üstü rütbelerde 5).
+- **Ev hakkı:** Oyuncu 1, VIP 2, MVIP 3, ZVIP ve ZVIP+ 5 ev ([VIP avantajları](../topluluk/rutbeler.md)).
 - Ev isimleri harf, rakam, `-` ve `_` içerebilir (en fazla 16 karakter).
 - **Lobide ve arena dünyasında ev kurulamaz.**
 - Menüde **Yeni ev ekle** düğmesine basıp ismi sohbete yazarak da ev ekleyebilirsin.

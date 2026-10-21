@@ -39,7 +39,7 @@ Hızlı yol: eşyayı elinde tutup `/ihale sat <fiyat>` ya da `/ihale artirma <b
 ## Kurallar ve vergi
 
 - Satış vergisi **Bakiyede %5**, ZaunCoin'de %0'dır (satıcının kazancından kesilir).
-- Aynı anda en fazla **10 ilan** verebilirsin (VIP ve üstü 20).
+- Aynı anda verebileceğin ilan sayısı rütbene bağlıdır: Oyuncu 5, VIP 15, MVIP 20, ZVIP 25, ZVIP+ 30.
 - Teklif almış bir açık artırmayı iptal edemezsin.
 - İhale için en az **60 dakika** oynamış olmalısın; aynı ağdaki (IP) hesaplar birbirinin ilanını alamaz.
 - Satılmayan eşya kaybolmaz, **Bekleyen Eşyalar**'da seni bekler.

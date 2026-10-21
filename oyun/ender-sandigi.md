@@ -4,8 +4,8 @@ Ender sandığı başlangıçta **27 slottur** (3 sıra). **Bakiye** ile **54 sl
 
 ## Nasıl açılır?
 
-- Bir ender sandığına sağ tıkla, ya da
-- `/ec` (veya `/enderchest`) yaz.
+- Bir ender sandığına sağ tıkla (herkes), ya da
+- `/ec` (veya `/enderchest`) yaz. **Bu komut MVIP ve üstü rütbelere özeldir**, her yerden ender sandığını açar.
 
 ## Genişletme
 

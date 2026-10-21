@@ -1,21 +1,36 @@
-# Rütbeler
+# Rütbeler ve VIP
 
-Sohbette ve oyuncu listesinde ismin önünde rütben görünür. Üst rütbeler, alttakilerin tüm avantajlarını da kazanır.
+Sohbette ve oyuncu listesinde ismin önünde rütben görünür. Oyun içinde `/vip` komutu (ya da ana menüdeki **VIP Üyelik**
+düğmesi) VIP kademelerini ve ayrıcalıklarını gösterir. Üst kademeler, alttakilerin tüm avantajlarını da kazanır.
 
 ## Oyuncu rütbeleri
 
-| Rütbe | Renk | Avantajlar |
-|---|---|---|
-| Oyuncu | Gri | Standart oyuncu |
-| VIP | Sarı | Sohbette renk kodu, 5 ev hakkı, 20 ihale ilanı |
-| VIP+ | Turuncu + sarı | VIP avantajları |
-| MVIP | Siyah | VIP+ avantajları |
-| MVIP+ | Siyah + beyaz | MVIP avantajları |
-| ZVIP | Açık yeşil | MVIP+ avantajları |
-| ZVIP+ | Açık yeşil + koyu yeşil | ZVIP avantajları |
+| Rütbe | Renk |
+|---|---|
+| Oyuncu | Gri |
+| VIP | Sarı |
+| MVIP | Siyah |
+| ZVIP | Açık yeşil |
+| ZVIP+ | Açık yeşil + koyu yeşil |
+
+## VIP avantajları
+
+| Avantaj | Oyuncu | VIP | MVIP | ZVIP | ZVIP+ |
+|---|---|---|---|---|---|
+| Ev hakkı | 1 | 2 | 3 | 5 | 5 |
+| İhalede eşya satma hakkı | 5 | 15 | 20 | 25 | 30 |
+| Sipariş oluşturma hakkı | 3 | 15 | 20 | 25 | 30 |
+| Pazara satarken fazla fiyat | - | - | %5 | %15 | %25 |
+| Sohbette renk kodu | - | ✔ | ✔ | ✔ | ✔ |
+| Özel TAB ve sohbet tagı | - | ✔ | ✔ | ✔ | ✔ |
+| `/workbench` (taşınabilir tezgâh) | - | ✔ | ✔ | ✔ | ✔ |
+| `/ec` (ender sandığını her yerden aç) | - | - | ✔ | ✔ | ✔ |
+| Ölünce XP kaybetmeme | - | - | - | ✔ | ✔ |
 
 {% hint style="info" %}
-VIP rütbeleri sunucuyu destekleyenler içindir. Rütbelerin kapsamı ve fiyatları Discord duyurularında paylaşılır.
+- **Ender sandığına sağ tıklamak** herkese açıktır; sadece `/ec` **komutu** MVIP ve üstüne özeldir.
+- Pazara satarken fazla fiyat, **Bakiye** ile yapılan satışlara uygulanır. ZaunCoin alımlarında indirim yoktur.
+- VIP rütbeleri sunucuyu destekleyenler içindir. Satın almak için Discord'dan destek talebi aç.
 {% endhint %}
 
 ## Yetkili rütbeleri
@@ -27,4 +42,5 @@ VIP rütbeleri sunucuyu destekleyenler içindir. Rütbelerin kapsamı ve fiyatla
 | S. Yetkili | Pembe | Yetkili yetkileri + oyun modu ve sipariş yönetimi |
 | Yönetici | Kırmızı | Sunucunun tüm yönetimi |
 
-Yetkililere saygılı davran; bir sorunun olduğunda `/msg` ile ya da Discord'dan destek talebi aç.
+Yetkililer VIP avantajlarının tamamına da sahiptir. Yetkililere saygılı davran; bir sorunun olduğunda `/msg` ile ya da
+Discord'dan destek talebi aç.

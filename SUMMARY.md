@@ -32,7 +32,7 @@
 
 ## Topluluk
 
-* [Rütbeler](topluluk/rutbeler.md)
+* [Rütbeler ve VIP](topluluk/rutbeler.md)
 * [Kurallar](topluluk/kurallar.md)
 * [Sık sorulan sorular](topluluk/sss.md)
 * [Discord](topluluk/discord.md)

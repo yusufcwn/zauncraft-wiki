@@ -29,6 +29,11 @@ sıfırlanır. Bu sayede makine ve farm ile tek eşyadan sınırsız para kazan�
 | Demir külçesi | 1,50$ | 384 |
 | Elmas | 16$ | 32 |
 
+## Rütbe bonusu
+
+**MVIP, ZVIP ve ZVIP+** rütbeleri pazara eşya satarken **%5 / %15 / %25 fazla** para alır ([VIP avantajları](../topluluk/rutbeler.md)).
+Bonus Bakiye ile yapılan satışlara uygulanır.
+
 ## ZaunCoin Mağazası {#zauncoin-magazasi}
 
 Sadece **ZaunCoin** ile alınır: spawner'lar ve [özel aletler](../oyun/spawner-ve-aletler.md). Fiyatlar mağaza menüsünde yazar.
