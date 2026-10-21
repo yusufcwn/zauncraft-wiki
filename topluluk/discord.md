@@ -2,7 +2,7 @@
 
 Topluluğumuzun merkezi **Discord sunucumuzdur**: duyurular, sunucu durumu, destek talepleri, etkinlikler ve sohbet burada.
 
-**Davet bağlantısı:** `<DISCORD-DAVET-LINKI>`
+**Davet bağlantısı:** [discord.gg/zauncraft](https://discord.gg/zauncraft)
 
 ## Neler var?
 

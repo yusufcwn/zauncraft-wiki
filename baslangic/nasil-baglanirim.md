@@ -3,7 +3,7 @@
 ## Java Edition
 
 1. Minecraft Java Edition'ı aç, **Çok Oyunculu > Sunucu Ekle** de.
-2. Sunucu adresine şunu yaz: `<SUNUCU-IP>` _(güncel adres Discord'daki duyuru kanalında)_
+2. Sunucu adresine şunu yaz: `oyna.zauncraft.com`
 3. Kaydet ve katıl.
 
 {% hint style="info" %}
@@ -16,7 +16,7 @@ ancak yeni eşyalar eski sürümde eksik ya da farklı görünebilir. En iyi den
 Sunucu Bedrock oyuncuları da kabul eder (Geyser ile).
 
 1. **Oyna > Sunucular > Sunucu Ekle** de.
-2. Adres: `<SUNUCU-IP>`, port: **19132**.
+2. Adres: `oyna.zauncraft.com`, port: **19132**.
 3. Kaydet ve katıl.
 
 {% hint style="warning" %}

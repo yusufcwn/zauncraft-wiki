@@ -14,7 +14,5 @@ Her `.md` dosyasının içeriğini GitBook editöründe yeni bir sayfaya yapış
 Sayfa sırasını `SUMMARY.md`'ye göre kur.
 
 ## Doldurulacak yerler
-- `<SUNUCU-IP>` (baslangic/nasil-baglanirim.md)
-- `<DISCORD-DAVET-LINKI>` (topluluk/discord.md)
 - topluluk/kurallar.md **taslaktır**, kendi kurallarınla değiştir.
 - VIP rütbelerinin avantaj/fiyat bilgileri (topluluk/rutbeler.md)
