@@ -47,8 +47,7 @@ Herkesin kullanabildiği komutlar. `<...>` zorunlu, `[...]` isteğe bağlı değ
 | `/meslek` | Meslek seç, bırak, istatistiklere bak |
 | `/duello <oyuncu> [miktar]` | Düello isteği (bahisli ya da bahissiz) |
 | `/izle <oyuncu>` | Süren bir düelloyu izle |
-| `/crates` | Kasa menüsü |
-| `/keys` | Kaç anahtarın olduğunu göster |
+| `/keys` | Kaç kasa anahtarın olduğunu göster (kasalar lobidedir, anahtarla sağ tıkla) |
 
 ## Diğer
 
