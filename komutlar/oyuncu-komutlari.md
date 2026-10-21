@@ -6,7 +6,7 @@ Herkesin kullanabildiği komutlar. `<...>` zorunlu, `[...]` isteğe bağlı değ
 
 | Komut | Açıklama |
 |---|---|
-| `/rtp` | Rastgele ışınlanma menüsü (3 sn bekleme, hareket/hasarla iptal olur) |
+| `/rtp` | Rastgele ışınlanma menüsü: **Dünya, Nether, End** (3 sn bekleme, hareket/hasarla iptal olur). `/rtp nether` ve `/rtp end` ile doğrudan |
 | `/spawn`, `/lobi` | Lobiye git |
 | `/home`, `/ev`, `/evler` | Ev menüsünü aç. `/home <isim>` o eve ışınlar |
 | `/sethome <isim>`, `/evayarla` | Bulunduğun yeri ev yap (Oyuncu 1 ev, VIP ve üstü daha fazla) |
@@ -29,6 +29,7 @@ Herkesin kullanabildiği komutlar. `<...>` zorunlu, `[...]` isteğe bağlı değ
 | Komut | Açıklama |
 |---|---|
 | `/market`, `/pazar` | Eşya sat, ZaunCoin mağazası |
+| `/firsat` | Bu haftanın Altın Fırsat ürünü (satışta 2x kazanç) |
 | `/ihale`, `/ah` | Oyuncu ihalesi (satış ve açık artırma) |
 | `/ihale sat <fiyat> [bakiye\|zauncoin]` | Elindeki eşyayı sabit fiyatla sat |
 | `/ihale artirma <başlangıç> [hemen al]` | Elindeki eşyayı açık artırmaya koy |

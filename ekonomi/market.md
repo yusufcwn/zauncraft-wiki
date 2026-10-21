@@ -30,6 +30,10 @@ sıfırlanır. Bu sayede makine ve farm ile tek eşyadan sınırsız para kazan�
 | Demir külçesi | 1,50$ | 384 |
 | Elmas | 16$ | 32 |
 
+## Altın Fırsat
+
+Her hafta rastgele bir ürünün satış kazancı **2 katı** olur ([Altın Fırsat](altin-firsat.md)). /firsat ile bu haftanın ürününü gör.
+
 ## Rütbe bonusu
 
 **MVIP, ZVIP ve ZVIP+** rütbeleri pazara eşya satarken **%5 / %15 / %25 fazla** para alır ([VIP avantajları](../topluluk/rutbeler.md)).

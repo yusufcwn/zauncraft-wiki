@@ -15,6 +15,7 @@
 
 * [Bakiye ve ZaunCoin](ekonomi/ekonomi.md)
 * [Market](ekonomi/market.md)
+* [Altın Fırsat](ekonomi/altin-firsat.md)
 * [Meslekler](ekonomi/meslekler.md)
 * [Teslimat](ekonomi/teslimat.md)
 * [İhale (açık artırma)](ekonomi/ihale.md)

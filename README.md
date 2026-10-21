@@ -35,7 +35,7 @@ ZaunCraft, **Towny'siz saf bir SMP sunucusudur**: araziler oyuncuların güvenin
 ## İçindekiler
 
 - **Başlangıç:** [Bağlantı](baslangic/nasil-baglanirim.md) • [İlk adımlar](baslangic/ilk-adimlar.md)
-- **Ekonomi:** [Bakiye ve ZaunCoin](ekonomi/ekonomi.md) • [Market](ekonomi/market.md) • [Meslekler](ekonomi/meslekler.md) •
+- **Ekonomi:** [Bakiye ve ZaunCoin](ekonomi/ekonomi.md) • [Market](ekonomi/market.md) • [Altın Fırsat](ekonomi/altin-firsat.md) • [Meslekler](ekonomi/meslekler.md) •
   [Teslimat](ekonomi/teslimat.md) • [İhale](ekonomi/ihale.md) • [Sipariş](ekonomi/siparis.md) • [Takas](ekonomi/takas.md) •
   [Oyuncu mağazaları](ekonomi/oyuncu-magazalari.md)
 - **Oyun:** [Ev ve RTP](oyun/ev-ve-rtp.md) • [Ender sandığı](oyun/ender-sandigi.md) • [Düello arenası](oyun/arena-duello.md) •

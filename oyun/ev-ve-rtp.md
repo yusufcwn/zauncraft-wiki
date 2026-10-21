@@ -23,13 +23,17 @@ Hasar aldıktan sonra **10 saniye** boyunca ışınlanma başlatılamaz.
 
 ## Rastgele ışınlanma (RTP)
 
-`/rtp` menüsünden **Rastgele Işınlan**'a basarak haritada rastgele bir yere ışınlanırsın.
+`/rtp` menüsünde üç düğme vardır: **Dünya**, **Nether** ve **End**. Seçtiğin bölgede rastgele bir yere ışınlanırsın (doğrudan komut: `/rtp dunya`, `/rtp nether`, `/rtp end`).
 
-- Okyanus ve nehir gibi uygun olmayan yerler seçilmez.
-- **Başka bir oyuncunun yakınına (300 blok) ışınlanmazsın**, böylece yeni başlayanlar kimsenin arazisine düşmez.
-- Mesafe spawn'dan en az 250 blok uzaktır.
+| Bölge | Mesafe (spawn'dan) | Not |
+|---|---|---|
+| Dünya | 250 - 8500 blok | Okyanus ve nehir seçilmez |
+| Nether | 150 - 3000 blok | Lavdan uzak, saglam bir zemine ışınlanırsın. **Tehlikelidir** |
+| End | 1200 - 4000 blok | End'in dış adaları. **Tehlikelidir** |
+
+- **Başka bir oyuncunun yakınına (300 blok) ışınlanmazsın.**
 - Kullanımlar arasında **60 saniye** beklemen gerekir.
-- Ev gibi, **3 saniye hareket etmeden beklemelisin**; hasar alırsan ya da kıpırdarsan iptal olur.
+- **3 saniye hareket etmeden beklemelisin**; hasar alırsan ya da kıpırdarsan iptal olur.
 
 {% hint style="info" %}
 Uzak ve yeni keşfedilen bölgelere ışınlanırken haritanın yüklenmesi birkaç saniye sürebilir; sunucu bu sırada donmaz.
