@@ -31,4 +31,4 @@ yapılması yasaktır, tespit edilen işlemler yetkililerce incelenir.
 | Market satışı | Eşya başına günlük limit | [Market](market.md) |
 | Teslimat | Günlük 3 sipariş + haftalık yarışma (kasa anahtarı) | [Teslimat](teslimat.md) |
 | Oyuncu ticareti | Serbest piyasa | [İhale](ihale.md), [Sipariş](siparis.md), [Takas](takas.md) |
-| Kasalar | Rastgele ödül | [Kasalar](../oyun/kasalar.md) |
+| Kasalar | Rastgele ödül (anahtarlar Teslimat, Bakiye ya da ZaunCoin ile) | [Kasalar](../oyun/kasalar.md) |

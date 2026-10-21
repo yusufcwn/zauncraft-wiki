@@ -13,7 +13,8 @@ sunucuya satarsın. Sunucudan eşya satın alınmaz (oyuncular birbirinden alı�
 | Tarım | Buğday, havuç, patates, şeker kamışı, kabak, kakao... |
 | Yiyecek | Pişmiş etler, elma... |
 | Yaratık Ganimeti | Kemik, ip, barut, ender incisi, blaze çubuğu... |
-| ZaunCoin Mağazası | Spawner ve özel aletler (sadece ZaunCoin ile) |
+| Kasa Anahtarları | Madenci, Savaşçı ve Servet kasası anahtarları (Bakiye ile alınır) |
+| ZaunCoin Mağazası | Spawner, özel aletler ve Efsane Kasası anahtarı (sadece ZaunCoin ile) |
 
 ## Günlük satış limiti
 
@@ -36,4 +37,4 @@ Bonus Bakiye ile yapılan satışlara uygulanır.
 
 ## ZaunCoin Mağazası {#zauncoin-magazasi}
 
-Sadece **ZaunCoin** ile alınır: spawner'lar ve [özel aletler](../oyun/spawner-ve-aletler.md). Fiyatlar mağaza menüsünde yazar.
+Sadece **ZaunCoin** ile alınır: spawner'lar, [özel aletler](../oyun/spawner-ve-aletler.md) ve **Efsane Kasası anahtarı**. Fiyatlar mağaza menüsünde yazar.
