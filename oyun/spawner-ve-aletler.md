@@ -23,9 +23,9 @@ Elmas seviyesinde, **Verimlilik 7** ve **Kırılmazlık 7** büyülü dört alet
 
 | Alet | Türü |
 |---|---|
-| Efsanevi Balta | Elmas balta |
-| Efsanevi Kazma | Elmas kazma |
-| Efsanevi Çapa | Elmas çapa |
-| Efsanevi Kürek | Elmas kürek |
+| Zaun Balta | Elmas balta |
+| Zaun Kazma | Elmas kazma |
+| Zaun Çapa | Elmas çapa |
+| Zaun Kürek | Elmas kürek |
 
 Normal aletler gibi kullanılır; Kırılmazlık 7 sayesinde aletler çok uzun dayanır.

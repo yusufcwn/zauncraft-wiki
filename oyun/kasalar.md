@@ -14,7 +14,7 @@ Lobide **6 farklı kasa** bulunur. Her kasanın kendi **anahtarı** vardır; ana
 | **Madenci Kasası** | Demir, altın, elmas, zümrüt, netherit parçası, elmas bloğu | `/market` > Kasa Anahtarları (**Bakiye**) |
 | **Savaşçı Kasası** | Büyülü silah ve zırh, altın elma, totem, kalkan, yay | `/market` > Kasa Anahtarları (**Bakiye**) |
 | **Servet Kasası** | Sadece para: 300$ - 25.000$ | `/market` > Kasa Anahtarları (**Bakiye**) |
-| **Zaun Kasası** (yeşil) | Büyük para ödülleri, netherit, elytra, sinyal ateşi, shulker, totem. **En nadir ödül: Efsanevi Kazma** | `/market` > ZaunCoin Mağazası (**ZaunCoin**) |
+| **Zaun Kasası** (yeşil) | Büyük para ödülleri, netherit, elytra, sinyal ateşi, shulker, totem. **En nadir ödül: Zaun Kazma** | `/market` > ZaunCoin Mağazası (**ZaunCoin**) |
 | **Etkinlik Kasası** | Karışık: para, elmas, altın elma, totem, tecrübe şişesi | Etkinliklerde yetkililer verir |
 
 ## Ödül örnekleri
@@ -27,7 +27,7 @@ Hepsinde nadir bir **JACKPOT** ödülü vardır ve kazanan tüm sunucuya duyurul
 | Madenci | 12 elmas bloğu |
 | Savaşçı | Büyülü Netherit Kılıç (Keskinlik 5, Kırılmazlık 3, Ateş Gücü 2) |
 | Servet | 25.000$ |
-| Zaun | 25.000$ (en nadir ödül: **Efsanevi Kazma**, ZaunCoin Mağazası'ndakinin aynısı) |
+| Zaun | 25.000$ (en nadir ödül: **Zaun Kazma**, ZaunCoin Mağazası'ndakinin aynısı) |
 | Etkinlik | 10.000$ |
 
 {% hint style="info" %}
