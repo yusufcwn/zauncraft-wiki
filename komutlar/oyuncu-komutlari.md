@@ -21,7 +21,7 @@ Herkesin kullanabildiği komutlar. `<...>` zorunlu, `[...]` isteğe bağlı değ
 |---|---|
 | `/bakiye` | Bakiyeni göster |
 | `/ode <oyuncu> <miktar>` | Para gönder |
-| `/zenginler` | En zengin oyuncular |
+| `/siralama`, `/zenginler` | Sıralama menüsü: en zenginler, en çok oynayanlar, avcılar... (kafalı menü) |
 | `/zauncoin`, `/zc` | ZaunCoin bakiyen |
 
 ## Alışveriş ve ticaret

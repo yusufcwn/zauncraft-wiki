@@ -28,6 +28,7 @@
 * [Ev ve rastgele ışınlanma](oyun/ev-ve-rtp.md)
 * [Ender sandığı](oyun/ender-sandigi.md)
 * [Düello arenası](oyun/arena-duello.md)
+* [Sıralama](oyun/siralama.md)
 * [Kasalar](oyun/kasalar.md)
 * [Spawner ve özel aletler](oyun/spawner-ve-aletler.md)
 
