@@ -1,8 +1,8 @@
 # Sık sorulan sorular
 
 ## Sunucuya giremiyorum.
-Sunucuda **whitelist** açıktır. Discord'dan yetkililere Minecraft (Bedrock için Microsoft) kullanıcı adını ilet ve listeye eklenmeni iste.
 Adresin doğru olduğundan ve Minecraft sürümünün uyumlu olduğundan emin ol ([Bağlantı](../baslangic/nasil-baglanirim.md)).
+Sorun sürerse Discord'dan destek talebi aç.
 
 ## Parayı nasıl kazanırım?
 [Meslekler](../ekonomi/meslekler.md), [market satışı](../ekonomi/market.md), [teslimat](../ekonomi/teslimat.md) ve oyuncu ticareti

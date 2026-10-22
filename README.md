@@ -21,8 +21,8 @@ Bu rehber sürekli güncellenir. Bir şey eksik ya da yanlışsa Discord sunucum
 
 ## Sunucu hakkında
 
-ZaunCraft, **Towny'siz saf bir SMP sunucusudur**: araziler oyuncuların güvenine bağlıdır, PvP açıktır (lobi ve
-özel arena hariç) ve ekonomi "zengin olmak kolay olmasın, sıkmasın" prensibiyle tasarlanmıştır.
+ZaunCraft'ta PvP açıktır (lobi ve özel arena hariç) ve ekonomi "zengin olmak kolay olmasın, sıkmasın"
+prensibiyle tasarlanmıştır.
 
 | | |
 |---|---|

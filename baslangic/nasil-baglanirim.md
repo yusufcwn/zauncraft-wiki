@@ -23,11 +23,6 @@ Sunucu Bedrock oyuncuları da kabul eder (Geyser ile).
 Bedrock'ta bazı menüler farklı çalışabilir. Menülerde **sadece sol tık / dokunma** kullan, sağ tık gerektiren işlem yoktur.
 {% endhint %}
 
-## Whitelist (giriş izni)
-
-Sunucuya şu an **sadece listeye eklenen oyuncular** girebilir. Giriş izni için Discord sunucumuzdan yetkililere
-Minecraft kullanıcı adını (Bedrock oyuncular Xbox/Microsoft hesap adını) bildir.
-
 ## Sesli sohbet
 
 ZaunCraft'ta yakınlık tabanlı sesli sohbet vardır (**Simple Voice Chat**).

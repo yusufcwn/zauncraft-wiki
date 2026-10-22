@@ -8,7 +8,7 @@ Topluluğumuzun merkezi **Discord sunucumuzdur**: duyurular, sunucu durumu, dest
 
 - **Duyurular:** güncellemeler, etkinlikler, sunucu açıldı/kapandı bildirimleri
 - **Sunucu durumu:** botumuz canlı oyuncu sayısını gösterir (`/sunucu`, `/oyuncular`, `/ip` komutları)
-- **Destek:** ticket sistemiyle yetkililerle özel kanal açabilirsin (şikayet, hata bildirimi, whitelist başvurusu)
+- **Destek:** ticket sistemiyle yetkililerle özel kanal açabilirsin (şikayet, hata bildirimi)
 - **Topluluk:** sohbet, ticaret, ekran görüntüleri ve arkadaş bulma
 
 ## Destek talebi nasıl açılır?
@@ -18,5 +18,5 @@ Topluluğumuzun merkezi **Discord sunucumuzdur**: duyurular, sunucu durumu, dest
 3. İşin bitince **Talebi Kapat** butonuna bas.
 
 {% hint style="info" %}
-Whitelist başvurusu ve hata bildirimleri için de destek talebi açabilirsin.
+Şikayet ve hata bildirimleri için destek talebi açabilirsin.
 {% endhint %}
